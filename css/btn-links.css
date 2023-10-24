@@ -1,0 +1,24 @@
+/* ~~~~~ Btn-links ~~~~~ */
+.btn-link {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  color: var(--fn-color-default-1);
+}
+
+.btn-link--header {
+  padding: 14px 22px;
+  border-radius: var(--btn-br-radius);
+  background: var(--btn-bg-color-1);
+}
+
+.btn-link--search {
+  border-radius: var(--btn-br-radius);
+  background: var(--btn-bg-color-2);
+}
+
+.btn-link--all {
+  border-radius: var(--btn-br-radius);
+  background: var(--btn-bg-color-3);
+}

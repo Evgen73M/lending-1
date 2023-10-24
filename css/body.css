@@ -1,0 +1,52 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--fn-color-default-1);
+  background-color: var(--bg-color-1);
+}
+/* * > * {
+  margin: 2px;
+} */
+
+img {
+  display: block;
+  min-width: 100%;
+  height: auto;
+}
+
+/* ~~~~~ Fonts ~~~~~ */
+.h2 {
+  font-size: 48px;
+  /* line-height: 57px; */
+}
+
+.h2--feedback {
+  color: var();
+}
+
+.h3 {
+  font-size: 32px;
+  /* line-height: 32px; */
+}
+
+.h2--bold {
+  font-weight: 400;
+}
+
+/* ~~~~~ Wrapper ~~~~~ */
+.wrapper {
+  max-width: var(--wrapper);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ~~~~~ BG-ccolor ~~~~~ */
+.wrapper-bg-color-1 {
+  background-color: var(--bg-color-4);
+}
+
+.wrapper-bg-color-2 {
+  background-color: var(--bg-color-1);
+}

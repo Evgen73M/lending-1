@@ -1,0 +1,35 @@
+/* ~~~~~ Roots ~~~~~~ */
+:root {
+  --fn-color-default-1: #000;
+  --fn-color-2: #55524e;
+  --fn-color-3: #787573;
+  --fn-color-4: #090808;
+  --fn-color-5: rgba(0, 0, 0, 0.6);
+  --fn-color-6: rgba(0, 0, 0, 0.8);
+  --fn-color-7: #a7a6a4;
+  --fn-color-8: #fff;
+
+  --fn-color-footer-7: rgba(255, 255, 255, 0.8);
+  --fn-color-footer-8: rgba(255, 255, 255, 0.6);
+  --fn-color-footer-3: rgba(255, 255, 255, 0.3);
+
+  --bg-color-1: #fff;
+  --bg-color-2: #f3f3f2;
+  --bg-color-3: #fbede4;
+  --bg-color-4: #194240;
+  --bg-color-5: #1b1918;
+
+  --btn-bg-color-1: rgba(0, 0, 0, 0.06);
+  --btn-bg-color-2: #08786c;
+  --btn-bg-color-3: #2e2b29;
+
+  --btn-br-radius: 8px;
+
+  --wrapper: 1284px;
+
+  /* ~~~ Cards ~~~ */
+  --width-cards: 291px;
+
+  /* ~~~ Paddings ~~~ */
+  --pading-1: 80px 0;
+}

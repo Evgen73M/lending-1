@@ -1,0 +1,63 @@
+/* ~~~~~~ Main ~~~~~~ */
+
+/* ~~~ Section cards ~~~~ */
+
+.section-cards {
+}
+
+.section-catds__title {
+  color: var(--fn-color-8);
+  margin-bottom: 32px;
+}
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.card {
+  flex: 1 1 var(--width-cards);
+  border-radius: 8px;
+}
+.card__img {
+  margin-bottom: 14px;
+}
+.card__text {
+  color: var(--fn-color-8);
+}
+.card:last-child {
+  margin-right: auto;
+}
+
+/* ~~~~~ Section feedback ~~~~~ */
+
+.section-feedback {
+  padding: var(--pading-1);
+}
+
+.section-feedback-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: space-between;
+
+  padding: 47px 0 72px 0;
+}
+.section-feedback-block {
+  flex: 1 1 351px;
+  border-radius: 8px;
+  border: 1px solid #cecdca;
+
+  padding: 33px 25px 53px 25px;
+}
+.section-feedback-block__rating {
+  padding-bottom: 25px;
+}
+.section-feedback-block__name {
+  padding-bottom: 15px;
+}
+.section-feedback-block__text-on {
+  padding-bottom: 25px;
+  color: var(--fn-color-5);
+}
+.section-feedback-block__text-two {
+}
